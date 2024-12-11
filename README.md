@@ -1,5 +1,13 @@
-# Vue 3 + Vite
+# MTM6407
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Type of review site
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+On this site you will find Movie's reviews.
+
+## Headless CMS
+
+The backend for this site was made with [Strapi](https://github.com/strapi/strapi) on this [repo](https://github.com/HashanKaushalya/Headless-CMS)
+
+## Headless CMS frontend
+
+The frontend for this site was made with [Vite](https://vite.dev/) and [Vue](https://vuejs.org/) and deploy with [Netlify](https://www.netlify.com/) at this [URL](https://headless-cms-mtm6407-frontend.netlify.app/).
